@@ -17,5 +17,5 @@
 3. Install _matplotlib and smpy_
 
 ```Bash
-  pip install matpotlib smpy
+  pip install matpotlib sympy
 ```
