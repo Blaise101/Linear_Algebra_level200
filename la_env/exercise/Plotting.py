@@ -10,8 +10,6 @@ def plot_format():
 # House Coordinates
 house = np.array([[0,4, 4, 2, 0, 0], [0, 0, 3, 5, 3, 0]])
 
-# TRANSFORMATION MATRICES
-
 # scaling
 scale = np.array([[1.5, 0], [0, 1.5]])
 scaledHouse = scale@house
